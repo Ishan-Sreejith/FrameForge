@@ -1,4 +1,0 @@
-fn add_five: x {
-    return x + 5
-}
-var y: add_five: 10

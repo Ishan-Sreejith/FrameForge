@@ -1,7 +1,0 @@
-var condition: 1
-if condition {
-    say: 100
-} else {
-    say: 200
-}
-

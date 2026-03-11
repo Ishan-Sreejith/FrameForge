@@ -1,7 +1,0 @@
-var count: 0
-while count < 10 {
-    say: count
-    var count: count + 1
-}
-
-say: "Done!"

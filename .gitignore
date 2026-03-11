@@ -38,3 +38,4 @@ wasm/target/
 *.md
 !README.md
 /docs/
+/examples/

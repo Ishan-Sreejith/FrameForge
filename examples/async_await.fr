@@ -1,7 +1,0 @@
-
-async fn add_async: a, b {
-    return a + b
-}
-
-var x: await add_async: 2, 3
-say: x
